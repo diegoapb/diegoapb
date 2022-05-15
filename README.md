@@ -1,3 +1,13 @@
+<h2>MY STATS</h2>
+
+![Jacques's github stats](https://github-readme-stats.vercel.app/api?username=JacquesPoulin&theme=blue-green)
+
+[![Jacques's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JacquesPoulin&theme=blue-green)](https://github.com/JacquesPoulin/JacquesPoulin)
+
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=JacquesPoulin&theme=blue-green)](https://github.com/JacquesPoulin/JacquesPoulin)
+
+<br> <hr>
+
 <h2 align="left">LEARNING PATH</h2>
 
 <h3>BASICS</h3>
